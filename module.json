@@ -5,7 +5,6 @@
   "keywords": [
     "redis"
   ],
-  "author": "",
   "homepage": "https://github.com/redis/hiredis",
   "dependencies": {}
 }
