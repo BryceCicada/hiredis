@@ -2,8 +2,8 @@
   "name": "hiredis",
   "version": "0.13.3",
   "description": "Minimalistic C client for Redis >= 1.2",
-    "author": "",
-  "license": "",
+    "author": "bar",
+  "license": "foo",
 
   "keywords": [
     "redis"
