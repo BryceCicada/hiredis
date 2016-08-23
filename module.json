@@ -1,0 +1,11 @@
+{
+  "name": "hiredis",
+  "version": "0.13.3",
+  "description": "Minimalistic C client for Redis >= 1.2",
+  "keywords": [
+    "redis"
+  ],
+  "author": "",
+  "homepage": "https://github.com/redis/hiredis",
+  "dependencies": {}
+}
