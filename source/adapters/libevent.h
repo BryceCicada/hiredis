@@ -31,8 +31,8 @@
 #ifndef __HIREDIS_LIBEVENT_H__
 #define __HIREDIS_LIBEVENT_H__
 #include <event.h>
-#include "../hiredis.h"
-#include "../async.h"
+#include "../../hiredis.h"
+#include "../../async.h"
 
 typedef struct redisLibeventEvents {
     redisAsyncContext *context;
