@@ -1,0 +1,11 @@
+# ninja log v5
+1	25	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/dict.c.o	a55029cd6def404b
+1	76	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/examples/example-libevent.c.o	2d05c84b798c5e12
+1	81	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/examples/example.c.o	531c07c7e0bb5aef
+1	239	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/async.c.o	d304d1ce1406e6b6
+0	280	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/sds.c.o	1f27f7c5c3e414d1
+25	291	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/hiredis.c.o	eb4df2511286f476
+1	317	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/test.c.o	8ad84dc4e5546f4c
+0	96	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/read.c.o	530b1eb6225e0a05
+0	98	0	source/CMakeFiles/hiredis.dir/home/chrisn/Development/mbed/hiredis/source/net.c.o	76848283023131a0
+98	106	0	source/libhiredis.a	a86fede36c301393
